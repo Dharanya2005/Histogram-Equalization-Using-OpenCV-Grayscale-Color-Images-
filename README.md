@@ -1,5 +1,5 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
-
+# Experiment-03
 ---
 
 ## Aim
